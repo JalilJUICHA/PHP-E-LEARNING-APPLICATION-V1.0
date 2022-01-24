@@ -10,7 +10,7 @@
                 <nav class="mt-5 ">
                     <ul class="nav d-flex flex-column gap-3">
                         <li>
-                            <a href="dashboard.php" class="btn text-start nav-link  ps-sm-2 text-dark d-none d-sm-inline">
+                            <a href="./dashboard.php" class="btn text-start nav-link  ps-sm-2 text-dark d-none d-sm-inline">
                                 <i class="fa fa-home"></i>
                                 Home</a>
                             <i class="fa fa-home d-sm-none mt-4 fs-3 text-center"></i>
@@ -48,7 +48,7 @@
                     </ul>
                 </nav>
                 <div class="mt-4">
-                    <a href="" class="btn text-start nav-link  ps-sm-2 text-dark d-none d-sm-inline">Logout
+                    <a href="index.php" class="btn text-start nav-link  ps-sm-2 text-dark d-none d-sm-inline">Logout
                         <i class="fa fa-sign-out" aria-hidden="true"></i>
                     </a>
                     <i class="fa fa-sign-out d-sm-none fs-3" aria-hidden="true"></i>
